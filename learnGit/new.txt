@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 这是一个新文件
-Creating a new branch is quick & simple!!!!
+Creating a new branch is quick and simple!!!!
+=======
+﻿这是一个新文件.
+Creating a new branch is quick AND simple.
+>>>>>>> featural
